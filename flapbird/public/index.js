@@ -1,0 +1,1 @@
+const _GAME = new FlapBirdGame();
